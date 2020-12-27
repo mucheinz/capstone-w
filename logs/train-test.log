@@ -1,0 +1,13 @@
+unique_id,timestamp,tag,period,rmse,model_version,model_version_note,runtime
+4757dba3-273c-44a4-834d-153340581aa6,1609084090.5084062,all,"('2017-11-30', '2019-05-31')",{'rmse': 39144},0.1,supervised learning model for time-series,000:00:06
+c08324ca-e019-4af6-b3eb-aea18beba2d1,1609084092.7461855,united_kingdom,"('2017-11-29', '2019-05-31')",{'rmse': 42270},0.1,supervised learning model for time-series,000:00:02
+5fdf862d-a6d8-4c45-b982-aa7f2f49f138,1609084095.700897,all,"('2017-11-29', '2019-05-31')",{'rmse': 16476},0.1,supervised learning model for time-series,000:00:02
+f9ca5156-d707-44eb-98fb-092c7b4134ed,1609084098.7358935,eire,"('2017-11-29', '2019-05-31')",{'rmse': 1581},0.1,supervised learning model for time-series,000:00:03
+e80a6993-4b40-4ff8-b13d-2f468def6c8c,1609084101.5552287,france,"('2017-11-29', '2019-05-31')",{'rmse': 634},0.1,supervised learning model for time-series,000:00:02
+8ae934ce-aa30-4e15-b44c-254bbeb06163,1609084104.786836,germany,"('2017-11-29', '2019-05-31')",{'rmse': 522},0.1,supervised learning model for time-series,000:00:03
+e0173929-1ad1-4d67-ab7d-eb1e27be9924,1609084106.4563625,hong_kong,"('2018-04-19', '2019-05-01')",{'rmse': 959},0.1,supervised learning model for time-series,000:00:01
+25d174eb-bb5e-4bb5-a3b4-f1b6808ffa8e,1609084109.2301629,netherlands,"('2017-11-30', '2019-05-31')",{'rmse': 122},0.1,supervised learning model for time-series,000:00:02
+b55dd6ca-73bb-43e6-89be-f2c971293507,1609084111.3914266,norway,"('2017-12-05', '2019-05-11')",{'rmse': 88},0.1,supervised learning model for time-series,000:00:02
+10f39c0b-f50a-4e02-8d20-e8a41c540090,1609084114.1467304,portugal,"('2017-11-29', '2019-05-31')",{'rmse': 171},0.1,supervised learning model for time-series,000:00:02
+4854dfa7-9a45-4fd6-986a-a40fb949257a,1609084115.8818152,singapore,"('2018-04-25', '2019-05-12')",{'rmse': 2332},0.1,supervised learning model for time-series,000:00:01
+ec6f1a9b-21dc-4f49-8123-220b56435957,1609084118.6323457,spain,"('2017-12-01', '2019-05-31')",{'rmse': 324},0.1,supervised learning model for time-series,000:00:02

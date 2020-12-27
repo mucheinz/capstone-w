@@ -1,0 +1,5 @@
+flask
+numpy
+pandas
+cython
+scikit-learn==0.23.2

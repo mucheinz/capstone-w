@@ -19,5 +19,5 @@ EXPOSE 80
 # run app.py when container launches
 CMD ["python", "app.py"]
 
-# docker build -t myimage .
+# docker build -t aavail .
 
